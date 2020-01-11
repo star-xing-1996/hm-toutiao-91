@@ -1,5 +1,7 @@
 <template>
-  <div>用户</div>
+  <div>
+   个人中心
+  </div>
 </template>
 
 <script>

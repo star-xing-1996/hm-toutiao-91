@@ -1,4 +1,4 @@
-const USER_TOKEN = 'heima - toutiao - m - 91 - token'
+const USER_TOKEN = 'heima-toutiao-m-91-token'
 // 设置用户信息
 export function setUser (user) {
   localStorage.setItem(USER_TOKEN, JSON.stringify(user))

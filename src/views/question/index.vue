@@ -1,9 +1,9 @@
 <template>
   <div>
-    <van-skeleton class="split"  title :row="3" />
-    <van-skeleton class="split" title :row="3" />
-    <van-skeleton class="split" title :row="3" />
-    <van-skeleton class="split" title :row="3" />
+    <van-skeleton avatar class="split"  title :row="3" />
+    <van-skeleton avatar class="split" title :row="3" />
+    <van-skeleton avatar class="split" title :row="3" />
+    <van-skeleton avatar class="split" title :row="3" />
   </div>
 </template>
 
